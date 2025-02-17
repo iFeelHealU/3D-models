@@ -1,0 +1,13 @@
+Created with Cinema4D
+
+It means so there is no leaf bones for Blender. 
+FBX Importer addon is recommended.
+
+There is bones for all the pneumatics on armpits and neck, please use constraints in mode "aim at" or "look at" to rig them properly. 
+Two bones of each pneumatic element should look at each other in order to work properly. 
+
+Each leg has a blendshape to help knees look better on extreme bending angles. 
+
+Made by iFeelHealU
+If you found any bugs please contact me aylfaylf@gmail.com
+or dm me on x.com/thiccythings
